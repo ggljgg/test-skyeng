@@ -21,6 +21,9 @@
         }
     ],
     "autoload": {
+        "files": [
+            "task4/src/helpers.php"
+        ],
         "psr-4": {
           "Task3\\": "task3/myVersion/src/"
         }

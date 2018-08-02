@@ -12,11 +12,13 @@
     <testsuites>
         <testsuite name="Skyeng Test Suite">
             <directory suffix=".php">./task3/myVersion/tests/</directory>
+            <directory suffix=".php">./task4/tests/</directory>
         </testsuite>
     </testsuites>
     <filter>
         <whitelist>
             <directory suffix=".php">./task3/myVersion/src/</directory>
+            <directory suffix=".php">./task4/src/</directory>
         </whitelist>
     </filter>
 </phpunit>
