@@ -1,0 +1,11 @@
+Задание: Проведите Code Review. Необходимо написать, с чем вы не согласны и почему.
+
+Дополнительное задание: Напишите свой вариант. 
+Решение должно быть представлено в виде ссылки на https://github.com/.
+
+Требования были: Добавить возможность получения данных от стороннего сервиса. 
+
+
+
+Code review: https://github.com/zualex/test-skyeng/pull/1
+Моя версия: https://github.com/zualex/test-skyeng/tree/master/task3/myVersion
